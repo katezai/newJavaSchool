@@ -6,10 +6,25 @@ import java.util.Random;
 public class homework3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Привет, имя_пользователя: ");
+        System.out.println("Введите имя: ");
         String name = sc.nextLine();
-        System.out.println("Привет, " + name + "!");
+        System.out.println("Привет, " + name);
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     // это ИИ, а не я, просто было интересно попробовать, сама я так не напишу пока
 
