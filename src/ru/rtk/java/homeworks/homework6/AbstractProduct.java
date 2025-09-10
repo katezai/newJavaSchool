@@ -1,7 +1,4 @@
-package ru.rtk.java.homeworks.homework7;
-
-import java.time.LocalDate;
-import java.util.*;
+package ru.rtk.java.homeworks.homework6;
 
 abstract class AbstractProduct {
     protected String name;

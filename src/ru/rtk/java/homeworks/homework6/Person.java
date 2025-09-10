@@ -1,4 +1,4 @@
-package ru.rtk.java.homeworks.homework7;
+package ru.rtk.java.homeworks.homework6;
 
 
 import java.util.ArrayList;

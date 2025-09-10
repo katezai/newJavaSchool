@@ -1,4 +1,4 @@
-package ru.rtk.java.homeworks.homework7;
+package ru.rtk.java.homeworks.homework6;
 
 class Product extends AbstractProduct {
     public Product(String name, double price) {
